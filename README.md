@@ -1,18 +1,16 @@
-
+#Independent Project
 ####Quotes
 #### By **Natasha Senah**
 ## Description
 This is a project that is about creating quotes where people can upvote and downvote a quote
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* One needs to create a new project using ng new project name in the terminal
+* You then run the command ng serve to see where you'll be viewing the project
+* Then you run the cd  command to now be working inside the project
 ## Known Bugs
 I had problems in placing the upvotes and downvotes
 ## Technologies Used
-Angular CLI,Bootstrap,CSS
+Angular CLI
 ## Support and contact details
 Call:0722334455/E-mail:tashsenah@gmail.com
 ### License
