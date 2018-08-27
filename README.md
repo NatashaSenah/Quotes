@@ -1,4 +1,4 @@
-#Independent Project
+
 ####Quotes
 #### By **Natasha Senah**
 ## Description
@@ -12,7 +12,7 @@ This is a project that is about creating quotes where people can upvote and down
 ## Known Bugs
 I had problems in placing the upvotes and downvotes
 ## Technologies Used
-Angular CLI
+Angular CLI,Bootstrap,CSS
 ## Support and contact details
 Call:0722334455/E-mail:tashsenah@gmail.com
 ### License

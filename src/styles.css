@@ -1,7 +1,10 @@
 
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
+  /* background-color:coral; */
+  /* background-image:url('assets/preview.jpg'); */
   background-color:coral;
+
 }
 h1{
   text-align: center;
