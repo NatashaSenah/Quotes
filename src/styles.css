@@ -3,3 +3,15 @@
 body{
   background-color:coral;
 }
+h1{
+  text-align: center;
+  text-decoration:underline;
+  font-style:bold;
+}
+.click{
+  display:inline-block;
+  font-size:15px 25px;
+  cursor:pointer;
+  text-align:center;
+  border-radius:15px;
+}
