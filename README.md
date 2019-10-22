@@ -12,7 +12,7 @@ I had problems in placing the upvotes and downvotes
 ## Technologies Used
 Angular CLI,bootstrap,css
 ## Support and contact details
-Call:0722334455/E-mail:tashsenah@gmail.com
+Call:0722334455
 ### License
 Copyright 2018 Natasha Senah
 
